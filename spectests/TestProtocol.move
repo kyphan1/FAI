@@ -1,4 +1,4 @@
-//# init -n dev --public-keys FaiAdmin=0x1725f86f6e4492afc3c2a6089d7d53a07ae88297b780464d13bba404a969d189
+//# init -n dev --public-keys FaiAdmin=0x523d767f264a27a1f68f6a45cd9084ee2c827e05edacc747b701cba39e684110
 
 //# faucet --addr admin --amount 100000000000000
 

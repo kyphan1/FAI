@@ -96,7 +96,7 @@ task 18 'run'. lines 225-234:
       "MoveAbort": [
         {
           "Module": {
-            "address": "0x4ffcc98f43ce74668264a0cf6eebe42b",
+            "address": "0xfe125d419811297dfab03c61efec0bc9",
             "name": "Config"
           }
         },

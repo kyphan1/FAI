@@ -72,7 +72,7 @@ task 15 'run'. lines 182-192:
       "MoveAbort": [
         {
           "Module": {
-            "address": "0x4ffcc98f43ce74668264a0cf6eebe42b",
+            "address": "0xfe125d419811297dfab03c61efec0bc9",
             "name": "Config"
           }
         },
@@ -106,7 +106,7 @@ task 18 'run'. lines 230-240:
       "MoveAbort": [
         {
           "Module": {
-            "address": "0x4ffcc98f43ce74668264a0cf6eebe42b",
+            "address": "0xfe125d419811297dfab03c61efec0bc9",
             "name": "Vault"
           }
         },
@@ -140,7 +140,7 @@ task 21 'run'. lines 291-298:
       "MoveAbort": [
         {
           "Module": {
-            "address": "0x4ffcc98f43ce74668264a0cf6eebe42b",
+            "address": "0xfe125d419811297dfab03c61efec0bc9",
             "name": "Vault"
           }
         },
