@@ -1,6 +1,6 @@
 [package]
 name = "FAI"
-version = "1.0.2"
+version = "1.2.2"
 
 [addresses]
 StarcoinFramework = "0x1"
