@@ -1,6 +1,6 @@
 [package]
 name = "FAIaaaa"
-version = "1.6.2"
+version = "1.6.5"
 
 [addresses]
 StarcoinFramework = "0x1"
